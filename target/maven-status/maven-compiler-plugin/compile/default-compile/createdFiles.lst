@@ -1,0 +1,5 @@
+com/onlinetutorialspoint/service/RabbitMqService.class
+com/onlinetutorialspoint/model/Item.class
+com/onlinetutorialspoint/config/RabbitMQConfig.class
+com/onlinetutorialspoint/SpringBootRabbitMqProducerApplication.class
+com/onlinetutorialspoint/controller/RabbitMqController.class

@@ -1,0 +1,9 @@
+wrapper:
+  image: spring-boot-service:latest
+ports:
+  - "8080:8080"
+expose:
+  - "8080"
+links:
+  - db
+  - another-service
